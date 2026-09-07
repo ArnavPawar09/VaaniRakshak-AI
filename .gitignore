@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated frontend recordings
+audio/_frontend_*
+
+# Generated feature files
+features/
+
+# Dataset
+dataset/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
